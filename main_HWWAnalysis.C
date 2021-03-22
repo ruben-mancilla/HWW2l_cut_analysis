@@ -10,7 +10,7 @@ TChain *main_HWWAnalysis(TString s)
 {
   // path to your local directory *or* URL, please change the default one!
   /* Local path example */
-  TString path = "/home/rufisica/Documentos/Dataset_Thesis/";
+  TString path = "/media/sf_Dataset_Thesis/";
 
   /* The URL to the ATLAS Open Data website repository */
   //TString path = "http://www.universidad.ch/ATLAS/outreach/open-data-2020/2lep/";
